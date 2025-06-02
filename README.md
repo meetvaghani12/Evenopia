@@ -133,7 +133,7 @@ For support, email meetvaghani1238@gmail.com
 
 ---
 
-Built with ❤️ for the Meet Vaghani
+Built By Meet Vaghani And Dinky Unadkat
 
 ### Handling Refunds and Cancellations
 
